@@ -1,8 +1,9 @@
-import pandas as pd
 import numpy as np
+import pandas as pd
 import glob
+print('imported pandas as pd, numpy as np and glob')
 
-def convert():
+def convert_txt():
     '''automatically read all the txt files present in currect working directory and convert to xlsx'''
     txts = glob.glob("*txt")
     for i in txts:
