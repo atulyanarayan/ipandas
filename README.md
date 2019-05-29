@@ -1,5 +1,5 @@
 # ipandas
-Enhanced pandas intelligence
+Welcome to enhanced pandas intelligence!! This library is created to automate and speeden day to day tasks involving pandas. 
 
 Added functions to default pandas functionality:
   1. read_data(filename): automatically detects correct full name of the file using regex match and the required file type, if file is in the current working directory
