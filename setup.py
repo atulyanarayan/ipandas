@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Atulya Narayan",
     author_email="atulya.iims@gmail.com",
-    description="Added intelligence to pandas",
+    description="Adding intelligence to pandas",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/atulyanarayan/ipandas",
