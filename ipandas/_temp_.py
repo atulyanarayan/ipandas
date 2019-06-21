@@ -1,4 +1,4 @@
-"""Module with class definitions for performing EDA."""
+"""Module with functions and classes for performing automated and interactive Exploratory Data Analysis (EDA)."""
 
 from istart import *
 from pandas.plotting import scatter_matrix
